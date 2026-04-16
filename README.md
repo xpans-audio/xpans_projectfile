@@ -2,6 +2,9 @@
 A data format for the xpans Ecosystem combining necessary information to load 
 audio and spatial data of scenes in addition to other descriptive information.
 
+[![Crates.io Version](https://img.shields.io/crates/v/xpans_projectfile)](https://crates.io/crates/xpans_projectfile)
+[![docs.rs](https://img.shields.io/docsrs/xpans_projectfile)](https://docs.rs/xpans_projectfile/0.1.0/xpans_projectfile/)
+
 ## Motivation
 In the xpans Ecosystem, spatial audio scenes are a combination of audio and
 spatial data, usually located in separate files. With a ProjectFile, users 
